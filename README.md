@@ -33,7 +33,14 @@ This class, offered in mini 4 (second half of spring semester) will tackle scien
 |  Tue 4/26   | The Art of the Blogpost   |    	Lecture      |  Writing from Authority for General Audiences |
 |  Tue 4/28   | The Art of the Blogpost   |    	Large Discussion      | Assigned Articles  |
 
+## Deliverables 
 
+| Date | Deliverable | 
+| ---: | :--- |
+|3/21	|	Register a draft|
+|4/15	|	Deliver aggressive mock review 
+|4/20	|	Submit rebuttal |
+|5/5 	|	Submit Revised Paper |
 
 
 
