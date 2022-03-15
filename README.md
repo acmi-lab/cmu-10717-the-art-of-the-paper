@@ -17,6 +17,7 @@ This class, offered in mini 4 (second half of spring semester) will tackle scien
 ## Tentative Schedule of Classes
 
 | Date | Topic | Style | Title/Format | 
+| ---: | :--- | :--- | :--- |
 |Tue 3/15   | The Fundamentals |	Lecture  | Introduction / The Core |
 |Tue 3/17 | The Fundamentals |	Lecture  | The Anatomy of a CS Conference Paper |
 | Tue 3/22 | The Fundamentals |	Lecture   | Style & Mechanics  |
