@@ -1,4 +1,4 @@
-# Carnegie Mellon University 10717: Philosophical Foundations of Machine Intelligence
+# Carnegie Mellon University 10717: The Art of the Paper
 
 ## Logistics 
 
