@@ -105,6 +105,8 @@ _A list of resources for writing compiled from various sources over time._
 
 * [Phrase bank](https://www.phrasebank.manchester.ac.uk/)
 
+* [List of well-written papers](https://writingscientist.com/well-written-papers/)
+
 <a name="books-on-writing"></a>
 ## Books on writing
 
