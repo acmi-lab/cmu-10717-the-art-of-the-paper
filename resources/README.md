@@ -1,6 +1,6 @@
-# A list of resources for scientific writing
+# Resources for writing
 
-* A list of resources for writing. These were compiled from various sources over time.
+* A list of resources for writing compiled from various sources over time.
 
 
 
