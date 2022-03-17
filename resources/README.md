@@ -7,23 +7,20 @@ _A list of resources for writing compiled from various sources over time._
 * [Table of Contents](#table-of-contents)
     - [Similar lists](#similar-lists)
     - [Style guides](#style-guides)
-    - [Scientific paper writing](#scientific-paper-writing-advice)
+    - [Scientific paper writing](#scientific-paper-writing)
     - [Communicating complex ideas](#communicating-complex-ideas)
     - [Writing tools and other resources](#writing-tools-and-other-resources)
     - [Books on writing](#books-on-writing)
     - [Research talks](#research-talks)
     - [Writing grant applications](#writing-grant-applications)
-    - [Courses](#writing-courses)
-    - [Miscellaneous ](#misc)
+    - [Courses](#courses)
+    - [Miscellaneous](#misc)
     
 
 <!-- /MarkdownTOC -->
 
 <a name="similar-lists"></a>
-
 ## Similar lists
-
-<hr>
 
 * [Awesome-writing](https://github.com/jenniferlynparsons/awesome-writing)
 
@@ -34,10 +31,7 @@ _A list of resources for writing compiled from various sources over time._
 * [Scientific writing tools](https://github.com/writing-resources/awesome-scientific-writing)
 
 <a name="style-guides"></a>
-
 ## Style guides
-
-<hr>
 
 * [Chris Dyer et al. on Typesetting maths](http://demo.clab.cs.cmu.edu/cdyer/short-guide-typesetting.pdf)
 
@@ -53,11 +47,9 @@ _A list of resources for writing compiled from various sources over time._
 
 * [Jordan Boyd-Graber on Style](https://home.cs.colorado.edu/~jbg/static/style.html)
 
-<a name="scientific-paper-writing-advice"></a>
 
-## Scientific paper writing advise
-
-<hr>
+<a name="scientific-paper-writing"></a>
+## Scientific paper writing
 
 * [Novelist Cormac McCarthy's tips on how to write a great science paper](https://www.nature.com/articles/d41586-019-02918-5)
 
@@ -89,12 +81,8 @@ _A list of resources for writing compiled from various sources over time._
 
 * [Judy Swan: Scientific Writing: Beyond Tips and Tricks](https://www.youtube.com/watch?v=jLPCdDp_LE0)
 
-
 <a name="communicating-complex-ideas"></a>
-
 ## Communicating complex ideas
-
-<hr>
 
 * [Things I Keep Repeating About Writing - Claire Le Goues](https://clairelegoues.com/posts/clg-writing-rules.html)
 
@@ -109,20 +97,14 @@ _A list of resources for writing compiled from various sources over time._
 * [How to be clear – gilest.org](https://gilest.org/2021/how-to-be-clear/)
 
 <a name="writing-tools-and-other-resources"></a>
-
 ## Writing tools and other resources
-
-<hr>
 
 * [Hemingway Editor](http://www.hemingwayapp.com/)
 
 * [Phrase bank](https://www.phrasebank.manchester.ac.uk/)
 
 <a name="books-on-writing"></a>
-
 ## Books on writing
-
-<hr>
 
 * [On Writing: A Memoir of the Craft](https://www.goodreads.com/book/show/10569.On_Writing)
 
@@ -139,10 +121,7 @@ _A list of resources for writing compiled from various sources over time._
 * [Creativity: A Short and Cheerful Guide](https://www.goodreads.com/en/book/show/50719532)
 
 <a name="research-talks"></a>
-
 ## Research talks
-
-<hr>
 
 * [How to give a great research talk](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/How-to-write-a-great-research-paper.pdf)
 
@@ -153,26 +132,17 @@ _A list of resources for writing compiled from various sources over time._
 * [Paper Writing Tips/Policy - Google Docs](https://docs.google.com/document/d/1i-EfIrlg_sDWticRuSv1ZeEu2XqqyG2p3U2aiykmrFE/edit)
 
 <a name="writing-grant-applications"></a>
-
 ## Writing grant applications
-
-<hr>
 
 * [500k grant application](https://austinhenley.com/pubs/Henley2021NSFCAREER.pdf)
 
-<a name="writing-courses"></a>
-
+<a name="courses"></a>
 ## Courses
-
-<hr>
 
 * [Technical Writing | Google Developers](https://developers.google.com/tech-writing)
 
 <a name="misc"></a>
-
 ## Miscellaneous
-
-<hr>
 
 * [Pee and poo and the language of health - NHS Digital](https://digital.nhs.uk/blog/transformation-blog/2019/pee-and-poo-and-the-language-of-health)
 
