@@ -9,14 +9,14 @@
 - [Table of Contents](#table-of-contents)
     - [Similar lists](#similar-lists)
     - [Style Guides](#style-guides)
-    - [Scientific paper writing advise](#scientific-paper-writing-advice)
+    - [Scientific paper writing](#scientific-paper-writing-advice)
     - [Communicating complex ideas](#communicating-complex-ideas)
     - [Writing tools and other resources](#writing-tools-and-other-resources)
     - [Books on writing](#books-on-writing)
     - [Research Talks](#research-talks)
     - [Writing grant applications](#writing-grant-applications)
     - [Writing courses](#writing-courses)
-    - [Misc.](#misc)
+    - [Miscellaneous ](#misc)
     
 
 
@@ -63,7 +63,7 @@
 
 - [www.writingcenter.uconn.edu/pdf/How\_to\_Summarize\_a\_Research\_Article.pdf](http://www.writingcenter.uconn.edu/pdf/How_to_Summarize_a_Research_Article.pdf)
 
-- [Novelist Cormac McCarthy’s tips on how to write a great science paper](https://www.nature.com/articles/d41586-019-02918-5)
+- [Novelist Cormac McCarthy's tips on how to write a great science paper](https://www.nature.com/articles/d41586-019-02918-5)
 
 - [Jason Eisner: Write the Paper First](https://www.cs.jhu.edu/~jason/advice/write-the-paper-first.html)
 
@@ -164,7 +164,7 @@
 
 
 <a name="misc"></a>
-## Misc.
+## Miscellaneous
 <hr>
 
 - [Pee and poo and the language of health - NHS Digital](https://digital.nhs.uk/blog/transformation-blog/2019/pee-and-poo-and-the-language-of-health)
