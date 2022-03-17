@@ -61,6 +61,8 @@ _A list of resources for writing compiled from various sources over time._
 
 * [Graham Neubig's Advice on paper writing](http://www.phontron.com/slides/neubig15paperwriting.pdf)
 
+* [Graham Neubig: Paper Writing Tips/Policy (a few links in this list were sourced from this doc)](https://docs.google.com/document/d/1i-EfIrlg_sDWticRuSv1ZeEu2XqqyG2p3U2aiykmrFE/)
+
 * [Kate Saenko: How to write the introduction](https://docs.google.com/presentation/d/1PZj0Sev2yjDu9NNr96S_wwjKCgIDhGmLjW1vtQpDhlk/edit#slide=id.g1b0dfc3643_0_125)
 
 * [Zack Lipton: Heuristics for Scientific Writing](https://www.approximatelycorrect.com/2018/01/29/heuristics-technical-scientific-writing-machine-learning-perspective/)
@@ -71,7 +73,7 @@ _A list of resources for writing compiled from various sources over time._
 
 * [ICML Paper Best Practices](https://icml.cc/Conferences/2022/BestPractices)
 
-* [Map of reading, reviewing & academic writing – Just another Studiolab hub site](https://studiolab.ide.tudelft.nl/studiolab/mapofwriting/)
+* [Map of writing from Delft University of Technology](https://studiolab.ide.tudelft.nl/studiolab/mapofwriting/)
 
 * [University of Connecticut writing center: how to summarize a research article](http://www.writingcenter.uconn.edu/pdf/How_to_Summarize_a_Research_Article.pdf)
 
@@ -127,9 +129,6 @@ _A list of resources for writing compiled from various sources over time._
 
 * [Advice on writing and speaking from The Armed Forces Officer Handbook, by U. S. Department of Defense](http://www.gutenberg.org/files/25482/25482-h/25482-h.htm#CHAPTER_TWENTY)
 
-* [Map of writing from Delft University of Technology](https://studiolab.ide.tudelft.nl/studiolab/mapofwriting/)
-
-* [Graham Neubig: Paper Writing Tips/Policy (a few links in this list were sourced from this doc)](https://docs.google.com/document/d/1i-EfIrlg_sDWticRuSv1ZeEu2XqqyG2p3U2aiykmrFE/)
 
 <a name="writing-grant-applications"></a>
 ## Writing grant applications
