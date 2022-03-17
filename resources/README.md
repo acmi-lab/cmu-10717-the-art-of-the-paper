@@ -8,14 +8,14 @@ _A list of resources for writing compiled from various sources over time._
 
 - [Table of Contents](#table-of-contents)
     - [Similar lists](#similar-lists)
-    - [Style Guides](#style-guides)
+    - [Style guides](#style-guides)
     - [Scientific paper writing](#scientific-paper-writing-advice)
     - [Communicating complex ideas](#communicating-complex-ideas)
     - [Writing tools and other resources](#writing-tools-and-other-resources)
     - [Books on writing](#books-on-writing)
-    - [Research Talks](#research-talks)
+    - [Research talks](#research-talks)
     - [Writing grant applications](#writing-grant-applications)
-    - [Writing courses](#writing-courses)
+    - [Courses](#writing-courses)
     - [Miscellaneous ](#misc)
     
 
@@ -136,7 +136,7 @@ _A list of resources for writing compiled from various sources over time._
 
 
 <a name="research-talks"></a>
-## Research Talks
+## Research talks
 <hr>
 
 
@@ -157,7 +157,7 @@ _A list of resources for writing compiled from various sources over time._
 
 
 <a name="writing-courses"></a>
-## Writing courses
+## Courses
 <hr>
 
 - [Technical Writing | Google Developers](https://developers.google.com/tech-writing)
