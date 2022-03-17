@@ -132,6 +132,9 @@
 
 - [Revising Prose by Richard A. Lanham](https://www.goodreads.com/book/show/1552699.Revising_Prose)
 
+- [Creativity: A Short and Cheerful Guide](https://www.goodreads.com/en/book/show/50719532)
+
+
 <a name="research-talks"></a>
 ## Research Talks
 <hr>
