@@ -85,7 +85,7 @@ _A list of resources for writing compiled from various sources over time._
 
 * [Simon Peyton Jones: The Art of Scientific Writing](https://www.youtube.com/watch?v=VK51E3gHENc)
 
-* [Simon Peyton Jones: How to write a great research paper][https://www.youtube.com/watch?v=1AYxMbYZQ1Y]
+* [Simon Peyton Jones: How to write a great research paper](https://www.youtube.com/watch?v=1AYxMbYZQ1Y)
 
 * [Judy Swan: Scientific Writing: Beyond Tips and Tricks](https://www.youtube.com/watch?v=jLPCdDp_LE0)
 
