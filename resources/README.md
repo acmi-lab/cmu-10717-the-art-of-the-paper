@@ -77,6 +77,8 @@ _A list of resources for writing compiled from various sources over time._
 - [Kate Saenko: How to write the introduction](https://docs.google.com/presentation/d/1PZj0Sev2yjDu9NNr96S_wwjKCgIDhGmLjW1vtQpDhlk/edit#slide=id.g1b0dfc3643_0_125)
 
 
+- [Zack Lipton: Heuristics for Scientific Writing](https://www.approximatelycorrect.com/2018/01/29/heuristics-technical-scientific-writing-machine-learning-perspective/)
+
 - [Checklist to Strengthen an IR Paper – SIGIR 2021 | Montréal, Québec](https://sigir.org/sigir2021/checklist-to-strengthen-an-ir-paper/)
 
 - [Tips for Writing Technical Papers](https://cs.stanford.edu/people/widom/paper-writing.html)
