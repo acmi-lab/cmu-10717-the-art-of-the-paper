@@ -59,8 +59,6 @@ _A list of resources for writing compiled from various sources over time._
 
 <hr>
 
-* [www.writingcenter.uconn.edu/pdf/How\_to\_Summarize\_a\_Research\_Article.pdf](http://www.writingcenter.uconn.edu/pdf/How_to_Summarize_a_Research_Article.pdf)
-
 * [Novelist Cormac McCarthy's tips on how to write a great science paper](https://www.nature.com/articles/d41586-019-02918-5)
 
 * [Jason Eisner: Write the Paper First](https://www.cs.jhu.edu/~jason/advice/write-the-paper-first.html)
@@ -82,6 +80,15 @@ _A list of resources for writing compiled from various sources over time._
 * [ICML Paper Best Practices](https://icml.cc/Conferences/2022/BestPractices)
 
 * [Map of reading, reviewing & academic writing – Just another Studiolab hub site](https://studiolab.ide.tudelft.nl/studiolab/mapofwriting/)
+
+* [University of Connecticut writing center: how to summarize a research article](http://www.writingcenter.uconn.edu/pdf/How_to_Summarize_a_Research_Article.pdf)
+
+* [Simon Peyton Jones: The Art of Scientific Writing](https://www.youtube.com/watch?v=VK51E3gHENc)
+
+* [Simon Peyton Jones: How to write a great research paper][https://www.youtube.com/watch?v=1AYxMbYZQ1Y]
+
+* [Judy Swan: Scientific Writing: Beyond Tips and Tricks](https://www.youtube.com/watch?v=jLPCdDp_LE0)
+
 
 <a name="communicating-complex-ideas"></a>
 
