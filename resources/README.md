@@ -129,7 +129,7 @@ _A list of resources for writing compiled from various sources over time._
 
 * [Map of writing from Delft University of Technology](https://studiolab.ide.tudelft.nl/studiolab/mapofwriting/)
 
-* [Paper Writing Tips/Policy - Google Docs](https://docs.google.com/document/d/1i-EfIrlg_sDWticRuSv1ZeEu2XqqyG2p3U2aiykmrFE/edit)
+* [Graham Neubig: Paper Writing Tips/Policy (a few links in this list were sourced from this doc)](https://docs.google.com/document/d/1i-EfIrlg_sDWticRuSv1ZeEu2XqqyG2p3U2aiykmrFE/)
 
 <a name="writing-grant-applications"></a>
 ## Writing grant applications
