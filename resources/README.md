@@ -1,6 +1,6 @@
 # Resources for writing
 
-* A list of resources for writing compiled from various sources over time.
+_A list of resources for writing compiled from various sources over time._
 
 
 
