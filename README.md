@@ -21,8 +21,7 @@ This class, offered in mini 4 (second half of spring semester) will tackle scien
 |Tue 3/15   | The Fundamentals |	Lecture  | Introduction / The Core |
 |Thu 3/17 | The Fundamentals |	Lecture  | The Anatomy of a CS Conference Paper |
 | Tue 3/22 | The Fundamentals |	Lecture   | Style & Mechanics  |
-| Thu 3/24  | Dissecting the Literature  |  Large	Discussion   | [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf) [Online Convex Programming and Generalized Infinitesimal Gradient Ascent](https://www.aaai.org/Papers/ICML/2003/ICML03-120.pdf)
-|
+| Thu 3/24  | Dissecting the Literature  |  Large	Discussion   | [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf) [Online Convex Programming and Generalized Infinitesimal Gradient Ascent](https://www.aaai.org/Papers/ICML/2003/ICML03-120.pdf) |
 | Tue 3/29  | Dissecting the Literature   |  Large	Discussion   | 	Assigned	Papers (TBA) |
 | Thu 3/31  | Dissecting the Literature   |  Large	Discussion   | Assigned	Papers (TBA) |
 | Tue 4/5   |  Dissecting your Peers   |    	Workshop      |  	Student Papers  |
