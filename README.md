@@ -5,7 +5,7 @@
 Instructor: Zachary Lipton (Director of [ACMI lab](https://acmilab.org/)) \
 Time: Tuesdays & Thursdays 4:40pm–6:00pm \
 Location: GHC 6115 (in person) \
-TA: TBD(?) \
+TA: [Charvi Rastogi](https://sites.google.com/view/charvirastogi/home)  \
 Reading List: TBD
 
 ## Course Description
@@ -22,7 +22,7 @@ This class, offered in mini 4 (second half of spring semester) will tackle scien
 |Thu 3/17 | The Fundamentals |	Lecture  | The Anatomy of a CS Conference Paper |
 | Tue 3/22 | The Fundamentals |	Lecture   | Style & Mechanics  |
 | Thu 3/24  | Dissecting the Literature  |  Large	Discussion   | [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf) [Online Convex Programming and Generalized Infinitesimal Gradient Ascent](https://www.aaai.org/Papers/ICML/2003/ICML03-120.pdf) |
-| Tue 3/29  | Dissecting the Literature   |  Large	Discussion   | 	Assigned	Papers (TBA) |
+| Tue 3/29  | Dissecting the Literature   |  Large	Discussion   | 	[How Do Classifiers Induce Agents to Invest Effort Strategically?](https://dl.acm.org/doi/abs/10.1145/3417742)         [Transforming Model Prediction for Tracking](https://arxiv.org/pdf/2203.11192.pdf) |
 | Thu 3/31  | Dissecting the Literature   |  Large	Discussion   | Assigned	Papers (TBA) |
 | Tue 4/5   |  Dissecting your Peers   |    	Workshop      |  	Student Papers  |
 | Thu 4/7    |  No class (holiday) | | |
