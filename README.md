@@ -23,7 +23,7 @@ This class, offered in mini 4 (second half of spring semester) will tackle scien
 | Tue 3/22 | The Fundamentals |	Lecture   | Style & Mechanics  |
 | Thu 3/24  | Dissecting the Literature  |  Large	Discussion   | [Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf) [Online Convex Programming and Generalized Infinitesimal Gradient Ascent](https://www.aaai.org/Papers/ICML/2003/ICML03-120.pdf) |
 | Tue 3/29  | Dissecting the Literature   |  Large	Discussion   | 	[How Do Classifiers Induce Agents to Invest Effort Strategically?](https://dl.acm.org/doi/abs/10.1145/3417742)         [Transforming Model Prediction for Tracking](https://arxiv.org/pdf/2203.11192.pdf) |
-| Thu 3/31  | Dissecting the Literature   |  Large	Discussion   | Assigned	Papers (TBA) |
+| Thu 3/31  | Dissecting the Literature   |  Large	Discussion   | [On Testing for Biases in Peer Review](https://dl.acm.org/doi/pdf/10.5555/3454287.3454762) |
 | Tue 4/5   |  Dissecting your Peers   |    	Workshop      |  	Student Papers  |
 | Thu 4/7    |  No class (holiday) | | |
 | Tue 4/12   |  Dissecting your Peers   |    	Workshop      |  	Student Papers  |
