@@ -28,10 +28,10 @@ This class, offered in mini 4 (second half of spring semester) will tackle scien
 | Thu 4/7    |  No class (holiday) | | |
 | Tue 4/12   |  Dissecting your Peers   |    	Workshop      |  	Student Papers  |
 | Thu 4/14   |  Dissecting your Peers   |    	Workshop      |  	Student Papers  |
-|  Tue 4/19   | The Art of the Rebuttal   |    	Lecture      |  Principles of Rebuttal Writing  |
-|  Thu 4/21   | The Art of the Rebuttal   |    	Large Discussion      |  Discuss Mock Reviews/Rebuttals  |
-|  Tue 4/26   | The Art of the Blogpost   |    	Lecture      |  Writing from Authority for General Audiences |
-|  Thu 4/28   | The Art of the Blogpost   |    	Large Discussion      | Assigned Articles  |
+| Tue 4/19   |  Dissecting your Peers   |    	Workshop      |  	Student Papers  |
+|  Thu 4/21   | The Art of the Rebuttal   |    	Lecture      |  Principles of Rebuttal Writing  |
+|  Tue 4/26   | The Art of the Rebuttal   |    	Large Discussion      |  Discuss Mock Reviews/Rebuttals  |
+|  Thu 4/28   | The Art of the Proposal   |    	Lecture      |  --- |
 
 ## Deliverables 
 
