@@ -38,8 +38,8 @@ This class, offered in mini 4 (second half of spring semester) will tackle scien
 | Date | Deliverable | 
 | ---: | :--- |
 |3/21	|	Register a draft|
-|4/15	|	Deliver aggressive mock review 
-|4/20	|	Submit rebuttal |
+|4/20	|	Deliver aggressive mock review 
+|4/25	|	Submit rebuttal |
 |5/5 	|	Submit Revised Paper |
 
 
